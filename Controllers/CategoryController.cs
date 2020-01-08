@@ -22,7 +22,7 @@ namespace testeef.Controllers
 
         [HttpPost]
         [Route("")]
-        public async Task<ActionResult<Category>> Get([FromServices] DataContext context, [FromBody]Category model)
+        public async Task<ActionResult<Category>> Post([FromServices] DataContext context, [FromBody]Category model)
         {
             if(ModelState.IsValid)
             {

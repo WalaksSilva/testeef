@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/walaks/Documents/Projetos/dotenet.core/testeef/testeef.csproj": {}
+    "G:\\Dotnet Core\\testeef\\testeef.csproj": {}
   },
   "projects": {
-    "/Users/walaks/Documents/Projetos/dotenet.core/testeef/testeef.csproj": {
+    "G:\\Dotnet Core\\testeef\\testeef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/walaks/Documents/Projetos/dotenet.core/testeef/testeef.csproj",
+        "projectUniqueName": "G:\\Dotnet Core\\testeef\\testeef.csproj",
         "projectName": "testeef",
-        "projectPath": "/Users/walaks/Documents/Projetos/dotenet.core/testeef/testeef.csproj",
-        "packagesPath": "/Users/walaks/.nuget/packages/",
-        "outputPath": "/Users/walaks/Documents/Projetos/dotenet.core/testeef/obj/",
+        "projectPath": "G:\\Dotnet Core\\testeef\\testeef.csproj",
+        "packagesPath": "C:\\Users\\wsilva\\.nuget\\packages\\",
+        "outputPath": "G:\\Dotnet Core\\testeef\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/walaks/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\wsilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
