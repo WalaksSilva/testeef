@@ -76,3 +76,10 @@ g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.RazorTargetAssemblyInfo.c
 G:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.csproj.CopyComplete
 g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.dll
 g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.pdb
+g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authorization.dll
+g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Metadata.dll
