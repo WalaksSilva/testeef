@@ -37,49 +37,61 @@
 /Users/walaks/Documents/Projetos/dotenet.core/testeef/obj/Debug/netcoreapp3.0/testeef.csproj.CopyComplete
 /Users/walaks/Documents/Projetos/dotenet.core/testeef/obj/Debug/netcoreapp3.0/testeef.dll
 /Users/walaks/Documents/Projetos/dotenet.core/testeef/obj/Debug/netcoreapp3.0/testeef.pdb
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\appsettings.Development.json
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\appsettings.json
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\testeef.exe
-G:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\testeef.deps.json
-G:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\testeef.runtimeconfig.json
-G:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\testeef.runtimeconfig.dev.json
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\testeef.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\testeef.pdb
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.InMemory.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
-g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.csprojAssemblyReference.cache
-g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\staticwebassets\testeef.StaticWebAssets.Manifest.cache
-g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\staticwebassets\testeef.StaticWebAssets.xml
-g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.MvcApplicationPartsAssemblyInfo.cache
-g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.AssemblyInfoInputs.cache
-g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.AssemblyInfo.cs
-g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.RazorTargetAssemblyInfo.cache
-G:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.csproj.CopyComplete
-g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.dll
-g:\Dotnet Core\testeef\obj\Debug\netcoreapp3.0\testeef.pdb
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authorization.dll
-g:\Dotnet Core\testeef\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Metadata.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/appsettings.Development.json
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/appsettings.json
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/testeef.exe
+G:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/testeef.deps.json
+G:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/testeef.runtimeconfig.json
+G:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/testeef.runtimeconfig.dev.json
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/testeef.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/testeef.pdb
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Bcl.AsyncInterfaces.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Bcl.HashCode.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.InMemory.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Abstractions.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Caching.Memory.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/System.Collections.Immutable.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+g:/Dotnet Core/testeef/obj/Debug/netcoreapp3.0/testeef.csprojAssemblyReference.cache
+g:/Dotnet Core/testeef/obj/Debug/netcoreapp3.0/staticwebassets/testeef.StaticWebAssets.Manifest.cache
+g:/Dotnet Core/testeef/obj/Debug/netcoreapp3.0/staticwebassets/testeef.StaticWebAssets.xml
+g:/Dotnet Core/testeef/obj/Debug/netcoreapp3.0/testeef.MvcApplicationPartsAssemblyInfo.cache
+g:/Dotnet Core/testeef/obj/Debug/netcoreapp3.0/testeef.AssemblyInfoInputs.cache
+g:/Dotnet Core/testeef/obj/Debug/netcoreapp3.0/testeef.AssemblyInfo.cs
+g:/Dotnet Core/testeef/obj/Debug/netcoreapp3.0/testeef.RazorTargetAssemblyInfo.cache
+G:/Dotnet Core/testeef/obj/Debug/netcoreapp3.0/testeef.csproj.CopyComplete
+g:/Dotnet Core/testeef/obj/Debug/netcoreapp3.0/testeef.dll
+g:/Dotnet Core/testeef/obj/Debug/netcoreapp3.0/testeef.pdb
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Tokens.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authorization.dll
+g:/Dotnet Core/testeef/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Metadata.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authorization.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Metadata.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Tokens.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/System.Security.Cryptography.Pkcs.dll
+/Users/walaks/Documents/Projetos/dotenet.core/testeef/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Security.Cryptography.Pkcs.dll

@@ -6,7 +6,7 @@ using testeef.Models;
 
 namespace testeef.Controllers
 {
-    [Route("v1")]
+    [Route("")]
     public class HomeController : ControllerBase
     {
         [HttpGet]

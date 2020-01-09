@@ -17,6 +17,7 @@ namespace testeef.Controllers
         [HttpGet]
         [Route("")]
         [Authorize(Roles = "manager")]
+
         public async Task<ActionResult<List<User>>> Get([FromServices] DataContext context)
         {
             var users = await context

@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Dotnet Core\\testeef\\testeef.csproj": {}
+    "/Users/walaks/Documents/Projetos/dotenet.core/testeef/testeef.csproj": {}
   },
   "projects": {
-    "G:\\Dotnet Core\\testeef\\testeef.csproj": {
+    "/Users/walaks/Documents/Projetos/dotenet.core/testeef/testeef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Dotnet Core\\testeef\\testeef.csproj",
+        "projectUniqueName": "/Users/walaks/Documents/Projetos/dotenet.core/testeef/testeef.csproj",
         "projectName": "testeef",
-        "projectPath": "G:\\Dotnet Core\\testeef\\testeef.csproj",
-        "packagesPath": "C:\\Users\\wsilva\\.nuget\\packages\\",
-        "outputPath": "G:\\Dotnet Core\\testeef\\obj\\",
+        "projectPath": "/Users/walaks/Documents/Projetos/dotenet.core/testeef/testeef.csproj",
+        "packagesPath": "/Users/walaks/.nuget/packages/",
+        "outputPath": "/Users/walaks/Documents/Projetos/dotenet.core/testeef/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\wsilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/walaks/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,6 +39,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.AspNetCore.Authorization": {
               "target": "Package",
               "version": "[3.1.0, )"
@@ -76,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
